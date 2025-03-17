@@ -14,5 +14,5 @@ This Shiny dashboard analyzes survey data from Eduvos IT graduates to understand
 3. Click "Update Dashboard" to see the results.
 
 ## Deployment
-- **GitHub Repository**: (https://github.com/zangothando/question3)(#)
-- **Deployed Dashboard**: [Link to Shiny App](#)
+- **GitHub Repository**: (https://github.com/zangothando/question3)
+- **Deployed Dashboard**: (https://zangothando.shinyapps.io/assignment/)
